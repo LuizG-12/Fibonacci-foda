@@ -41,7 +41,7 @@ int main()
     
     while (!metodo_valido) 
     {
-        printf("Selecione o método de calculo desejado:\n");
+        printf("Selecione o metodo de calculo desejado:\n");
         printf("Digite 1 para iterativo\n");
         printf("Digite 2 para recursivo\n");
         printf("Digite 3 para ambos\n");
